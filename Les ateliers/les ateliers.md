@@ -103,6 +103,8 @@
 **Manipulation de la caméra :**
 >Dans un premier temps, manipulation simple de la caméra par les usagers, dans un second temps manipulation assistée avec l'animateur pour faire ressortir les éléments essentiels de la caméra.
 
+![Composants d'une caméra](Petit-focus-sur-l-optique/images_utiles/composants_camera)
+
 **Montage d'un objectif :**
 >Donner aux usagers un banc d’optique avec lentille diaphragme et image. Objectif: réaliser un montage sur banc d’optique pour grandir plus ou moins une image avec jeu sur le diaphragme pour comprendre son effet.
 
