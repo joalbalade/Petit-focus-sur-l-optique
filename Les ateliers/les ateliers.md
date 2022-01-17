@@ -5,7 +5,7 @@
 ### Les lentilles
 
 **_Déroulement de la séance_ :**  
-1/Réflexion  
+>1/Réflexion  
 >2/Réfraction par des dioptres  
 >3/Lentilles  
 >4/Miroirs  
