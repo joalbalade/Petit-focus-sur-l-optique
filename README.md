@@ -4,13 +4,13 @@ Ci-dessous la définition du cadre de notre projet et des différentes activité
 
 * âge : à partir de 15 ans
 * Profil de l'atelier : cadre associatif, fête de la science
-* Durée : 2 jours
+* Durée : 3 jours
 * Budget : à définir
 * Discipline : optique
 
 # Organisation
 
-* Temps : 2 séances de 4h
+* Temps : 3 séances de 4h
 * Nombre de groupes :
 
 # Comment transmettre les connaissances aux participants ?
