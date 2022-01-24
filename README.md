@@ -11,7 +11,7 @@ Ci-dessous la définition du cadre de notre projet et des différentes activité
 # Organisation
 
 * Temps : 3 séances de 4h
-* Nombre de groupes :
+* Nombre de groupes : 4 groupes de 2  
 
 # Comment transmettre les connaissances aux participants ?
 
