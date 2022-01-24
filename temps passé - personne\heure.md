@@ -7,6 +7,4 @@
 | Semaine 5 |        |         |                |       |         |       |      
 | Semaine 6 |        |         |                |       |         |       |    
 
-| Semaine | Adrien | Nicolas | Mamadou Lamine | Maeva | Maxence | Joris |
-| :-----: | :----: | :-----: | :------------: | :---: | :-----: | :---: |
-|         |        |         |                |       |         |       |
+
