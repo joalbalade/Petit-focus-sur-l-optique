@@ -5,20 +5,47 @@
 ### Les lentilles
 
 **_Déroulement de la séance_ :**  
->1/Réflexion  
->2/Réfraction par des dioptres  
->3/Lentilles  
->4/Miroirs  
->5/Fonctionnement de l'oeil et correction de la vision  
-
+>1/Manipuler et observer l’effet des différents types de lentilles
+>2/Répartition en 6 petits atelier de 5 minutes
+>3/Cours pour expliquer les expériences
 
 **_Principe des expériences_ :** 
 
+**1ère expérience :**
+>Lors de la première expérience, l’objectif est de visualiser un texte à travers une lentille convergente.
 
-**_Matériel utilisé_ :**  
- 
+**2ème expérience :**
+>L’objectif est de visualiser un texte à travers une lentille divergente.
 
-**_Durée des expériences_ :**  
+**3ème et 4ème expérience :**
+>L’objectif est de visualiser sur un écran blanc le faisceau lumineux plus ou moins concentré et plus ou moins intense. Pour l’expérience 3, des lentilles convergentes et pour l’expérience 4, des lentilles divergentes. Et également visualiser le spectre à travers un prisme.
+
+**5ème expérience :**
+>L’objectif va être de visualiser sur un écran, l’image retourné d’un objet.  Pour cela, il faut placer la source lumineuse derrière l’objet puis son ombre va passer par la lentille convergente et ensuite se retrouver sur l’écran.
+
+**6ème expérience :**
+>L’objectif va être de visualiser sur un écran, l’image retourné d’un objet.  Pour cela, il faut placer la source lumineuse derrière l’objet puis son ombre va passer par la lentille divergente et ensuite se retrouver sur l’écran.
+
+
+**_Matériel utilisé_ :**
+
+**1ère expérience :**
+* Plusieurs lentilles convergentes 
+
+**2ème expérience :**
+* Plusieurs lentilles divergentes
+
+**3ème et 4ème expérience :**
+* plusieurs lentilles convergentes et divergentes 
+* Deux sources lumineuse
+* Deux écrans blancs (feuille, planche…)
+
+
+**5ème expérience :**
+* Plusieurs lentilles convergentes 
+
+**6ème expérience :**
+* Plusieurs lentilles divergentes
 
 
 *********************
@@ -28,7 +55,7 @@
 **_Déroulement de la séance_ :**  
 >1/Expérience création d’un laser, correction puis cours sur le fonctionnement (analogie avec la lumière naturelle) et expérience sur la transmission du son  
 >2/Cours sur la fibre optique et expériences  
->4/Quizz sur le contenu de la séance  
+>3/Quizz sur le contenu de la séance  
 
 
 **_Principe des expériences_ :**  
