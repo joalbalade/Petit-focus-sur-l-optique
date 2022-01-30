@@ -131,6 +131,10 @@
 **_Durée de l'expérience_ :**  
 
 **Manipulation de la caméra :**
->10 min en autonomie 15 avec intervenant
+>10 min en autonomie 15 min avec intervenant
+
+**Montage d'un objectif :**
 >45 min
+
+**Traitement d'image :**
 >1h
